@@ -1,0 +1,6 @@
+projectKey=groupId:acme
+serverUrl=http://localhost:9000
+serverVersion=8.9.10.61524
+dashboardUrl=http://localhost:9000/dashboard?id=groupId%3Aacme
+ceTaskId=AYkZL15LtpIo5EgPqmi6
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYkZL15LtpIo5EgPqmi6
